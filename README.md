@@ -1,5 +1,7 @@
 # JavaScript ChatGPT Clone
 
+![image](https://github.com/ERICK-ZABALA/CHAT_GPT_CLONE/assets/38144008/d68b34d4-58c3-4def-8c3d-8d7ffc83981d)
+
 Este es un clon simple de una interfaz de chat que utiliza la API de OpenAI GPT para generar respuestas automáticas. Este documento README explica la estructura y los elementos principales del código HTML proporcionado.
 
 ## Estructura del HTML
